@@ -11,9 +11,6 @@
 [![AMD](https://img.shields.io/badge/CPU-AMD_Ryzen_5_5500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]()
 
 ---
-
-<img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Images/logo.png" width="200"/>
-
 </div>
 
 ---
