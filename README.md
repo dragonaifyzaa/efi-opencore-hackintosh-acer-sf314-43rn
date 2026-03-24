@@ -12,6 +12,10 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/acidanthera/OpenCorePkg/master/Docs/Images/logo.png" width="200"/>
+
+</div>
+
 ---
 
 ## 📋 Specs / Spesifikasi
